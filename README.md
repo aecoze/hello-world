@@ -6,3 +6,4 @@ yesterday coffee instructions:
 2) heat in microwave one minute
 3) drink
 4) repeat as needed
+5) make coffee for tomorrow
